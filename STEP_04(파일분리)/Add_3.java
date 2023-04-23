@@ -1,3 +1,5 @@
+//work폴더에 Add_3.java존재 하고 메인 클래스만 따로 존재
+
 javac STEP_04_Add_3.java
 javac STEP_04_Add_3.java work/Add_3.java
 javac -cp work STEP_04_Add_3.java
