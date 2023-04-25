@@ -6,7 +6,7 @@ class STEP_07_PointLine_5 {
 
 	public static void main(String args[]) throws IOException {
 		
-		Line_5 line;
+		Line_5 line; //원래라면 kor.ptln.Line_5일 것 
 		int x, y, a, b;
 		double dl;
 
